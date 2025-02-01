@@ -1,0 +1,1 @@
+This repository contains test cases, test plans, and documentation related to manual software testing. It serves as a resource for QA testers working on structured manual testing processes, including test case execution, defect tracking, and reporting.
